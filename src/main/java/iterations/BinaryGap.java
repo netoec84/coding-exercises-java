@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
+ * L1
  * Find longest sequence of zeros in binary representation of an integer
  */
 public class BinaryGap {

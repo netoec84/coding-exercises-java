@@ -4,8 +4,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-
 /**
+ * L2
  * Rotate an array to the right by a given number of steps.
  */
 public class CyclicRotation {
