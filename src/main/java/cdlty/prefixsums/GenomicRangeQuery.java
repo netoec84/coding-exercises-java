@@ -1,11 +1,11 @@
-package prefixsums;
+package cdlty.prefixsums;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 /**
- * L5
+ * P => C:L5
  * Find the minimal nucleotide from a range of sequence DNA.
  */
 public class GenomicRangeQuery {

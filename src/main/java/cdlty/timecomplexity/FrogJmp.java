@@ -1,11 +1,11 @@
-package timecomplexity;
+package cdlty.timecomplexity;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * L3
+ * P => C:L3
  * Count minimal number of jumps from position X to Y.
  */
 public class FrogJmp {

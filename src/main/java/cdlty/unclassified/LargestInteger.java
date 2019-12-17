@@ -1,9 +1,12 @@
-package unclassified;
+package cdlty.unclassified;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * P => C:XMN
+ */
 public class LargestInteger {
 
     public int solution(int[] A) {

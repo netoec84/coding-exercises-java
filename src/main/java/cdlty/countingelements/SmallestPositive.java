@@ -1,9 +1,12 @@
-package countingelements;
+package cdlty.countingelements;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * P => C:Dmo
+ */
 public class SmallestPositive {
 
     public int solution(int[] A) {

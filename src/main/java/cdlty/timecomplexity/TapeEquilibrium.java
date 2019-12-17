@@ -1,11 +1,11 @@
-package timecomplexity;
+package cdlty.timecomplexity;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * L3
+ * P => C:L3
  * Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
  */
 public class TapeEquilibrium {

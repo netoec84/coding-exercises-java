@@ -1,11 +1,11 @@
-package countingelements;
+package cdlty.countingelements;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * L4
+ * P => C:L4
  * Find the earliest time when a frog can jump to the other side of a river.
  */
 public class FrogRiverOne {

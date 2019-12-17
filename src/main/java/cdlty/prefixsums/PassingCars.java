@@ -1,11 +1,11 @@
-package prefixsums;
+package cdlty.prefixsums;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * L5
+ * P => C:L5
  * Count the number of passing cars on the road.
  */
 public class PassingCars {

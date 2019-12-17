@@ -1,9 +1,12 @@
-package unclassified;
+package cdlty.unclassified;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * P => C:XMN
+ */
 public class Clock {
 
     public int solution(String S, String T) {

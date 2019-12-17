@@ -1,11 +1,11 @@
-package arrays;
+package cdlty.arrays;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * L2
+ * P => C:L2
  * Find value that occurs in odd number of elements.
  */
 public class OddOccurrencesInArray {

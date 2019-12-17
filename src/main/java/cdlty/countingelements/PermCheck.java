@@ -1,11 +1,11 @@
-package countingelements;
+package cdlty.countingelements;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * L4
+ * P => C:L4
  * Check whether array A is a permutation.
  */
 public class PermCheck {
